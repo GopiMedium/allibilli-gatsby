@@ -36,7 +36,7 @@
     "gatsby-transformer-remark": "^2.6.50",
     "gatsby-transformer-sharp": "^2.3.7",
     "material-design-icons": "^3.0.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "office-ui-fabric-react": "^7.64.0",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
